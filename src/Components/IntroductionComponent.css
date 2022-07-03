@@ -1,0 +1,29 @@
+.Introduction-container{
+    background-color: #E73946;
+    height: 38rem;
+    width: 50rem;
+    border-radius: 10px;
+}
+.text1{
+    display: inline-block;
+    margin-left: 11rem;
+    margin-top: 10rem;
+    color: white;
+    font-size: 1.8em;
+    word-spacing: 0.1em;
+}
+.button-container{
+    background-color: white;
+    margin-top: 1rem;
+    height: 2.7rem;
+    width: 25.8rem;
+    margin-left: 7.5rem;
+    border-radius: 10px;
+    
+}
+.button1{
+    text-align: center;
+    margin-top: 0.6rem;
+    margin-left: 1.5rem;
+    color: #21C085;
+}

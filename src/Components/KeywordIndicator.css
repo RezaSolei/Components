@@ -1,0 +1,8 @@
+.progress{
+    width: 23rem;
+}
+.progress-text{
+    margin-top: -1rem;
+    margin-left: 25rem;
+    color: rgb(129, 129, 129)
+}

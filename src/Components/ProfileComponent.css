@@ -1,0 +1,43 @@
+.profile_container{
+
+    background-color: rgb(241, 241, 241);
+    height: 6rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    width: 23rem;
+    border-radius: 10px;
+}
+
+
+.api_pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:9.5rem;
+    margin-top:-3.5rem ;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('https://via.placeholder.com/400x200');      
+}
+.First-text{
+    display: inline-block;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    font-size: 0.9em;
+    color: rgb(112, 112, 112);
+}
+.secound-text{
+    margin-top: -3.5rem;
+    margin-left: 15rem;
+    color: #444e8b;
+}
+.third-text{
+    margin-top: -0.5rem;
+    margin-left: 15rem;
+    font-size: 0.7rem;
+    color: rgb(112, 112, 112);
+}

@@ -1,0 +1,28 @@
+.image_icon{
+margin-top: 6rem;
+margin-left: 12rem;
+height: 6rem;
+}
+.divimageuploader{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    background-color: #F3F4F6;
+    height: 21rem;
+    width: 31rem;
+    border-radius: 10px;
+}
+.imageuploaderborder{
+    border-style: dashed;
+    height: 19rem;
+    width:29rem;
+    color: rgb(204, 203, 203);
+    margin: 2rem;
+    margin-left: 2rem;
+    margin-top: -20rem;
+    border-radius: 20px;
+}
+.uploadfolder{
+    margin-top: -10rem;
+    margin-left: 10rem;
+    cursor: pointer;
+}

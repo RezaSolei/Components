@@ -1,0 +1,54 @@
+.closeIcon-addfeature{
+    background-color:#f7f7f7 ;
+    width: 20rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    height: 35rem;
+    border-radius: 10px;
+}
+
+
+.add-feature-text{
+    text-align: left;
+    margin-left: 2rem;
+    display: inline-block;
+    margin-top: 3.5rem;
+}
+.closeIcon svg{
+    margin-left: 16rem;
+    margin-top: -4.5rem;
+    height: 1.8rem;
+    width:1.8rem;
+    background-color: #e7e7e7;
+    color: gray;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.line{
+    margin-left: 0rem;
+    width: 20rem;
+}
+
+.feature-text2{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 17rem;
+    color: #5c5c5c;
+}
+.button-features{
+    margin-left: 0rem;
+    text-align: center;
+    align-items: center;
+}
+.button-features p{
+    margin-top: 0.9rem;
+    margin-left: 1rem;
+    text-align: center;
+    align-items: center;
+    color: #5c5c5c;
+    font-size: 0.9em;
+}
+.border{
+    width: 18rem;
+}
